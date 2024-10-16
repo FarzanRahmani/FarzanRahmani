@@ -19,7 +19,8 @@
   Projects involving Convolutional Neural Networks (CNNs), LSTM models, and Transformers.
 
 ## 🏆 Achievements
-- Finalist in the **29th National Scientific Olympiad in Computer Engineering** (2023)
+- Ranked 2nd and received Silver Medal in the **29th National Scientific Olympiad in Computer Engineering** 🥈🥈 (2024) 
+- Finalist in the **28th National Scientific Olympiad in Computer Engineering** (2023)
 - Ranked **within the top 0.5%** in the Iranian University Entrance Exam for Mathematics and Physics (2020)
 
 ## 📚 Teaching Experience
