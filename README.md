@@ -3,7 +3,7 @@
 **Computer Engineering Student | AI Enthusiast | NLP Researcher**  
 📍 Tehran, Iran  
 🎓 Bachelor of Science in Computer Engineering at Iran University of Science and Technology (GPA: 4/4)  
-🌟 Ranked 1st among BSc students (Class of 2020) at Iran University of Science and Technology  
+🌟 Ranked 1st (1/101) among BSc students (Class of 2020) at Iran University of Science and Technology  
 🔬 Research Assistant at NLP Laboratory, focusing on Visual Question Answering, Large Language Models, and Multimodal Language Models
 
 ## 🌟 Key Projects & Research
