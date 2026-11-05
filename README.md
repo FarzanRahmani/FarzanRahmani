@@ -2,7 +2,7 @@
 
 **AI researcher | M.Sc. student at Sharif University of Technology | Data Scientist at TAPSI**
 
-I work on machine learning, large language models, and reliable AI. My research spans reasoning in LLMs, adversarial robustness, and multimodal understanding, with earlier work on visual illusions in visual question answering. I am based in Tehran, Iran.
+I work on machine learning, large language models, and reliable AI. My research spans reasoning in LLMs & Explanation faithfulness, adversarial robustness, and multimodal understanding, with earlier work on visual illusions in visual question answering. I am based in Tehran, Iran.
 
 [Website](https://farzanrahmani.github.io/) · [LinkedIn](https://www.linkedin.com/in/farzan-rahmani-51128b201) · [Email](mailto:farzanrahmani70@gmail.com) · [Resume](resume.pdf)
 
@@ -17,7 +17,7 @@ My bachelor's thesis, supervised by Prof. Sauleh Eetemadi, explored benchmarking
 
 ## Research
 
-- **Robust and Interpretable Machine Learning Laboratory, Sharif University of Technology** (October 2024–present): research on adversarial robustness and reasoning in large language models, supervised by Prof. Mohammad Hossein Rohban.
+- **Robust and Interpretable Machine Learning Laboratory, Sharif University of Technology** (October 2024–present): research on adversarial robustness and reasoning & explanation faithfulness in large language models, supervised by Prof. Mohammad Hossein Rohban.
 - **Natural Language Processing Laboratory, Iran University of Science and Technology** (July 2023–October 2024): research on visual question answering, visual illusions, and multimodal language models, supervised by Prof. Sauleh Eetemadi.
 
 ### Selected Publications
